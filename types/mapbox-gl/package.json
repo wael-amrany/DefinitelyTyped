@@ -3,7 +3,7 @@
     "name": "@types/mapbox-gl",
     "version": "3.4.9999",
     "projects": [
-        "https://github.com/mapbox/mapbox-gl-js"
+        "https://github.com/wael-amrany/mapbox-gl-js"
     ],
     "dependencies": {
         "@types/geojson": "*"
@@ -12,6 +12,10 @@
         "@types/mapbox-gl": "workspace:."
     },
     "owners": [
+         {
+            "name": "wael-amrany",
+            "githubUsername": "g9t3n"
+        },
         {
             "name": "Dominik Bruderer",
             "githubUsername": "dobrud"
